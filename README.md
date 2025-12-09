@@ -1,19 +1,3 @@
-# optimization 
-### Optimization algorithms for the real-world applications.
-
-# License
-### This Software was written by prof. K.-S. Sohn, Sejong Univ.
-### This software is released under the MIT License.
-
-# Code References
-## - MOBO
-### Balandat et al.
-### BoTorch: A Framework for Efficient Monte-Carlo Bayesian Optimization. (2020)
-
-## - NSGA-II
-### K. Deb et al. 
-### A Fast Elitist Non-Dominated Sorting Genetic Algorithm for Multi-Objective Optimization: NSGA-II. (2002)
-
 # 세종대학교 소재허브 AI 기반 소재 설계 자동화 플랫폼 능동학습 알고리즘을 활용한 소재 최적화 및 탐색 시스템
 
 세종대학교 소재허브 연구단에서 신소재 개발 과정을 혁신하고 가속화하기 위해 개발한 AI 기반 소재 설계 자동화 플랫폼입니다.
@@ -36,3 +20,20 @@
 
 4. 고속 탐색을 위한 예측 모델 통합
 소재 조성 및 구조 정보를 기반으로 목표 물성을 정확하게 예측하는 머신러닝 모델을 통합하여, 실제 실험 전에 잠재적인 소재 성능을 예측하고 검증합니다.
+
+# optimization 
+### Optimization algorithms for the real-world applications.
+
+# License
+### This Software was written by prof. K.-S. Sohn, Sejong Univ.
+### This software is released under the MIT License.
+
+# Code References
+## - MOBO
+### Balandat et al.
+### BoTorch: A Framework for Efficient Monte-Carlo Bayesian Optimization. (2020)
+
+## - NSGA-II
+### K. Deb et al. 
+### A Fast Elitist Non-Dominated Sorting Genetic Algorithm for Multi-Objective Optimization: NSGA-II. (2002)
+
